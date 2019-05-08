@@ -1,0 +1,7 @@
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\lenya\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
